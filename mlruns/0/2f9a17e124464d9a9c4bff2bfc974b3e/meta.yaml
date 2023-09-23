@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/saravananselvamani/projects/personal/ml_tutorial/mlruns/0/2f9a17e124464d9a9c4bff2bfc974b3e/artifacts
+end_time: 1695446294463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f9a17e124464d9a9c4bff2bfc974b3e
+run_name: ambitious-ant-550
+run_uuid: 2f9a17e124464d9a9c4bff2bfc974b3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695446292376
+status: 3
+tags: []
+user_id: saravananselvamani

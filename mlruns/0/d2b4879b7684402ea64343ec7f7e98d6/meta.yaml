@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/saravananselvamani/projects/personal/ml_tutorial/mlruns/0/d2b4879b7684402ea64343ec7f7e98d6/artifacts
+end_time: 1695446273643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2b4879b7684402ea64343ec7f7e98d6
+run_name: resilient-elk-840
+run_uuid: d2b4879b7684402ea64343ec7f7e98d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695446271509
+status: 3
+tags: []
+user_id: saravananselvamani
